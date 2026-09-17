@@ -14,8 +14,6 @@ I'm focused on learning by working on practical projects and gradually developin
 * **SQL** — Learning SQL for business analytics and analytical problem solving
 * **Power BI** — Data visualization and dashboard development
 * **Python** — Learning Python for data analysis and analytics
-* **Streamlit** — Used in a practical analytics project
-* **SQLite** — Used for database integration in a project
 * **Data Storytelling** — Learning to communicate analytical findings through visualizations and insights
 
 ---
